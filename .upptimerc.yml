@@ -6,9 +6,9 @@ repo: status # Your Github repository name
 sites:
   - name: CDU Neuss
     url: https://www.cdu-neuss.de
-  - name: Jan-Philipp Büchler
+  - name: Jan-Philipp Buechler
     url: https://www.buechler-fuer-neuss.de
-  - name: Dr. Jörg Geerlings MdL
+  - name: Dr. Joerg Geerlings MdL
     url: https://www.geerlings.de
 
 status-website:
