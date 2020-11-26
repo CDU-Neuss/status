@@ -5,14 +5,22 @@
     "slug": "cdu-neuss",
     "status": "up",
     "uptime": "100.00%",
-    "time": 482
+    "time": 475
   },
   {
-    "name": "JPB",
+    "name": "Jan-Philipp Büchler",
     "url": "https://www.buechler-fuer-neuss.de",
-    "slug": "jpb",
+    "slug": "jan-philipp-buechler",
     "status": "up",
     "uptime": "100.00%",
-    "time": 483
+    "time": 490
+  },
+  {
+    "name": "Dr. Jörg Geerlings MdL",
+    "url": "https://www.geerlings.de",
+    "slug": "dr-joerg-geerlings-md-l",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 803
   }
 ]
