@@ -6,8 +6,10 @@ repo: status # Your Github repository name
 sites:
   - name: CDU Neuss
     url: https://www.cdu-neuss.de
-  - name: JPB
+  - name: Jan-Philipp Büchler
     url: https://www.buechler-fuer-neuss.de
+  - name: Dr. Jörg Geerlings MdL
+    url: https://www.geerlings.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
