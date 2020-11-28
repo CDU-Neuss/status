@@ -5,7 +5,7 @@
     "slug": "cdu-neuss",
     "status": "up",
     "uptime": "100.00%",
-    "time": 611
+    "time": 581
   },
   {
     "name": "Jan-Philipp Buechler",
@@ -13,7 +13,7 @@
     "slug": "jan-philipp-buechler",
     "status": "up",
     "uptime": "100.00%",
-    "time": 590
+    "time": 562
   },
   {
     "name": "Dr. Joerg Geerlings MdL",
@@ -21,6 +21,6 @@
     "slug": "dr-joerg-geerlings-md-l",
     "status": "up",
     "uptime": "100.00%",
-    "time": 832
+    "time": 797
   }
 ]
