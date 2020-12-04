@@ -5,7 +5,15 @@
     "slug": "cdu-neuss",
     "status": "up",
     "uptime": "100.00%",
-    "time": 588
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 590,
+    "timeDay": 603,
+    "timeWeek": 578,
+    "timeMonth": 590,
+    "timeYear": 590
   },
   {
     "name": "Jan-Philipp Buechler",
@@ -13,14 +21,30 @@
     "slug": "jan-philipp-buechler",
     "status": "up",
     "uptime": "100.00%",
-    "time": 583
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 578,
+    "timeDay": 535,
+    "timeWeek": 573,
+    "timeMonth": 578,
+    "timeYear": 578
   },
   {
     "name": "Dr. Joerg Geerlings MdL",
     "url": "https://www.geerlings.de",
     "slug": "dr-joerg-geerlings-md-l",
     "status": "up",
-    "uptime": "99.82%",
-    "time": 781
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 772,
+    "timeDay": 664,
+    "timeWeek": 752,
+    "timeMonth": 772,
+    "timeYear": 772
   }
 ]
