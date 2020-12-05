@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 603,
-    "timeWeek": 578,
-    "timeMonth": 590,
-    "timeYear": 590
+    "time": 609,
+    "timeDay": 815,
+    "timeWeek": 628,
+    "timeMonth": 609,
+    "timeYear": 609
   },
   {
     "name": "Jan-Philipp Buechler",
@@ -25,26 +25,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 535,
-    "timeWeek": 573,
-    "timeMonth": 578,
-    "timeYear": 578
+    "time": 603,
+    "timeDay": 848,
+    "timeWeek": 626,
+    "timeMonth": 603,
+    "timeYear": 603
   },
   {
     "name": "Dr. Joerg Geerlings MdL",
     "url": "https://www.geerlings.de",
     "slug": "dr-joerg-geerlings-md-l",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 772,
-    "timeDay": 664,
-    "timeWeek": 752,
-    "timeMonth": 772,
-    "timeYear": 772
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 795,
+    "timeDay": 1078,
+    "timeWeek": 795,
+    "timeMonth": 795,
+    "timeYear": 795
   }
 ]
