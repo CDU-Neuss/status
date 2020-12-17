@@ -4,19 +4,19 @@
     "url": "https://www.cdu-neuss.de",
     "icon": "https://favicons.githubusercontent.com/www.cdu-neuss.de",
     "slug": "cdu-neuss",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 582,
-    "timeDay": 564,
-    "timeWeek": 600,
-    "timeMonth": 582,
-    "timeYear": 582,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "94.54%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 591,
+    "timeDay": 649,
+    "timeWeek": 624,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2020-12-17": 61
+      "2020-12-17": 78
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.buechler-fuer-neuss.de",
     "icon": "https://favicons.githubusercontent.com/www.buechler-fuer-neuss.de",
     "slug": "jan-philipp-buechler",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1419,
-    "timeDay": 6102,
-    "timeWeek": 2795,
-    "timeMonth": 1419,
-    "timeYear": 1419,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 1392,
+    "timeDay": 5022,
+    "timeWeek": 2604,
+    "timeMonth": 1392,
+    "timeYear": 1392,
     "dailyMinutesDown": {
-      "2020-12-17": 61
+      "2020-12-17": 78
     }
   },
   {
