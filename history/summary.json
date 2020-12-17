@@ -4,9 +4,9 @@
     "url": "https://www.cdu-neuss.de",
     "icon": "https://favicons.githubusercontent.com/www.cdu-neuss.de",
     "slug": "cdu-neuss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,29 @@
     "timeWeek": 592,
     "timeMonth": 579,
     "timeYear": 579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-17": 1
+    }
   },
   {
     "name": "Jan-Philipp Buechler",
     "url": "https://www.buechler-fuer-neuss.de",
     "icon": "https://favicons.githubusercontent.com/www.buechler-fuer-neuss.de",
     "slug": "jan-philipp-buechler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 479,
-    "timeWeek": 574,
-    "timeMonth": 564,
-    "timeYear": 564,
-    "dailyMinutesDown": {}
+    "time": 1497,
+    "timeDay": 11721,
+    "timeWeek": 3373,
+    "timeMonth": 1497,
+    "timeYear": 1497,
+    "dailyMinutesDown": {
+      "2020-12-17": 0
+    }
   },
   {
     "name": "Dr. Joerg Geerlings MdL",
