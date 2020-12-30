@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.cdu-neuss.de",
     "slug": "cdu-neuss",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.83%",
-    "time": 557,
-    "timeDay": 447,
-    "timeWeek": 465,
+    "uptimeYear": "99.84%",
+    "time": 555,
+    "timeDay": 466,
+    "timeWeek": 466,
     "timeMonth": 549,
-    "timeYear": 557,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2020-12-17": 78
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/www.buechler-fuer-neuss.de",
     "slug": "jan-philipp-buechler",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.83%",
-    "time": 1119,
-    "timeDay": 480,
-    "timeWeek": 502,
-    "timeMonth": 1198,
-    "timeYear": 1119,
+    "uptimeYear": "99.84%",
+    "time": 1104,
+    "timeDay": 531,
+    "timeWeek": 503,
+    "timeMonth": 1199,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2020-12-17": 78
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 721,
-    "timeDay": 706,
-    "timeWeek": 736,
-    "timeMonth": 697,
-    "timeYear": 721,
+    "time": 719,
+    "timeDay": 633,
+    "timeWeek": 720,
+    "timeMonth": 698,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2020-11-28": 17
     }
