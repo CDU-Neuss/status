@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
-    "time": 555,
-    "timeDay": 466,
-    "timeWeek": 466,
-    "timeMonth": 549,
-    "timeYear": 555,
+    "time": 553,
+    "timeDay": 479,
+    "timeWeek": 469,
+    "timeMonth": 547,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2020-12-17": 78
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.84%",
-    "time": 1104,
-    "timeDay": 531,
-    "timeWeek": 503,
-    "timeMonth": 1199,
-    "timeYear": 1104,
+    "time": 1088,
+    "timeDay": 434,
+    "timeWeek": 495,
+    "timeMonth": 1177,
+    "timeYear": 1088,
     "dailyMinutesDown": {
       "2020-12-17": 78
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/www.geerlings.de",
     "slug": "dr-joerg-geerlings-md-l",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 719,
-    "timeDay": 633,
-    "timeWeek": 720,
-    "timeMonth": 698,
-    "timeYear": 719,
+    "uptimeYear": "99.97%",
+    "time": 716,
+    "timeDay": 599,
+    "timeWeek": 692,
+    "timeMonth": 694,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2020-11-28": 17
     }
